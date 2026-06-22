@@ -1,0 +1,91 @@
+complaint,category,priority
+"Water leaking from ceiling in unit 4B and dripping onto the floor",Plumbing,High
+"Kitchen sink pipe is leaking under the cabinet",Plumbing,High
+"Emergency water leak near the clubhouse restroom",Plumbing,High
+"Toilet in common area is overflowing since yesterday",Plumbing,High
+"Broken pipe in parking garage causing standing water",Plumbing,High
+"No hot water in building C since morning",Plumbing,High
+"Water heater appears broken in unit 12A",Plumbing,High
+"Main lobby restroom has a clogged drain",Plumbing,Medium
+"Slow drain in laundry room sink",Plumbing,Medium
+"Sprinkler water line is dripping near walkway",Plumbing,Medium
+"Bathroom faucet keeps running in unit 2D",Plumbing,Medium
+"Please inspect low water pressure in unit 7C",Plumbing,Medium
+"Request to replace old shower head whenever possible",Plumbing,Low
+"Suggest checking minor drip from outdoor hose bib",Plumbing,Low
+"Whenever possible please look at the small leak by pool shower",Plumbing,Low
+"Lights not working in parking area near building B",Electrical,Medium
+"Emergency electrical sparks from outlet in gym",Electrical,High
+"Broken light fixture hanging in hallway",Electrical,High
+"Power outage in unit 9F since yesterday",Electrical,High
+"Parking lot lights are completely out since morning",Electrical,High
+"Electrical panel is making buzzing sound",Electrical,High
+"Gate keypad has no power and residents cannot enter",Electrical,High
+"Lobby ceiling lights flicker every evening",Electrical,Medium
+"Outlet near mail room is not working",Electrical,Medium
+"Pool area lights turn off too early",Electrical,Medium
+"Street lamp near entrance needs repair",Electrical,Medium
+"Please check dim lights in stairwell",Electrical,Medium
+"Request brighter bulbs in community room whenever possible",Electrical,Low
+"Suggest adding a light near the recycling area",Electrical,Low
+"Whenever possible replace faded light switch labels",Electrical,Low
+"Elevator stuck on 3rd floor since morning",Elevator,High
+"Resident is trapped because elevator is stuck between floors",Elevator,High
+"Emergency elevator alarm is ringing continuously",Elevator,High
+"Elevator doors are broken and will not close",Elevator,High
+"Elevator has been out of service since yesterday",Elevator,High
+"Elevator stopped suddenly while residents were inside",Elevator,High
+"Main elevator is making loud grinding noise",Elevator,High
+"Elevator button for floor 5 is not responding",Elevator,Medium
+"Service elevator moves slowly during peak hours",Elevator,Medium
+"Elevator lights are flickering inside the cab",Elevator,Medium
+"Please inspect elevator certificate display frame",Elevator,Medium
+"Elevator floor indicator is showing wrong numbers",Elevator,Medium
+"Request mirror cleaning inside elevator whenever possible",Elevator,Low
+"Suggest repainting elevator door trim",Elevator,Low
+"Whenever possible update the notice inside elevator",Elevator,Low
+"Grass near building A has not been cut this week",Landscaping,Medium
+"Broken tree branch blocking sidewalk after storm",Landscaping,High
+"Emergency fallen tree limb near playground entrance",Landscaping,High
+"Irrigation sprinkler is broken and flooding the lawn",Landscaping,High
+"Large branch has been hanging over parking spots since yesterday",Landscaping,High
+"Bushes are blocking the security camera view",Landscaping,Medium
+"Weeds are growing around the pool fence",Landscaping,Medium
+"Flower beds near lobby need maintenance",Landscaping,Medium
+"Mulch is scattered across the front walkway",Landscaping,Medium
+"Please trim hedges along building D",Landscaping,Medium
+"Request planting seasonal flowers near entrance",Landscaping,Low
+"Suggest adding more shade plants whenever possible",Landscaping,Low
+"Whenever possible improve landscaping around mailbox area",Landscaping,Low
+"Leaves need to be cleared from courtyard",Landscaping,Medium
+"Trash overflowing in the mail room",Cleanliness,High
+"Broken glass in hallway near unit 6E",Cleanliness,High
+"Emergency cleanup needed after sewage smell in lobby",Cleanliness,High
+"Garbage chute has been blocked since yesterday",Cleanliness,High
+"Spill on stairwell floor causing slip hazard",Cleanliness,High
+"Common hallway carpet has strong odor",Cleanliness,Medium
+"Laundry room floor is dirty and sticky",Cleanliness,Medium
+"Pool restroom needs cleaning",Cleanliness,Medium
+"Pet waste found near building C entrance",Cleanliness,Medium
+"Dust buildup in gym equipment area",Cleanliness,Medium
+"Please clean fingerprints from lobby glass doors",Cleanliness,Medium
+"Request extra trash bins near picnic area whenever possible",Cleanliness,Low
+"Suggest deep cleaning community room carpet",Cleanliness,Low
+"Whenever possible polish the elevator lobby floor",Cleanliness,Low
+"Recycling bins are full near the side gate",Cleanliness,Medium
+"Security gate is broken and staying open",Security,High
+"Emergency suspicious person trying car doors in parking lot",Security,High
+"Main entrance lock has been broken since yesterday",Security,High
+"Camera near pool is not recording",Security,High
+"Garage access door will not lock",Security,High
+"Call box is broken and visitors cannot reach residents",Security,High
+"Unknown person sleeping in stairwell",Security,High
+"Parking gate closes too slowly after cars enter",Security,Medium
+"Key fob reader at clubhouse works intermittently",Security,Medium
+"Exterior camera view is blocked at night",Security,Medium
+"Please review security patrol schedule for weekends",Security,Medium
+"Noise complaint from courtyard late at night",Security,Medium
+"Request new visitor badge signs whenever possible",Security,Low
+"Suggest adding camera signs near parking area",Security,Low
+"Whenever possible update access instructions at front desk",Security,Low
+"Package room door was left unlocked",Security,Medium
