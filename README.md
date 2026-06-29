@@ -4,7 +4,7 @@ An NLP-based complaint classification app that reads an HOA maintenance complain
 
 ## Problem It Solves
 
-PropVIVO manages multiple HOA communities where residents submit maintenance complaints in plain English. Operations managers otherwise need to manually read each complaint, decide whether it is plumbing, electrical, elevator, landscaping, cleanliness, or security related, estimate urgency, and contact the right responder.
+HOA (Homeowners Association) management companies manages multiple HOA communities where residents submit maintenance complaints in plain English. Operations managers otherwise need to manually read each complaint, decide whether it is plumbing, electrical, elevator, landscaping, cleanliness, or security related, estimate urgency, and contact the right responder.
 
 This project automates that first triage step so complaints can move faster from resident report to service dispatch.
 
