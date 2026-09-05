@@ -12,7 +12,7 @@ This project automates that first triage step so complaints can move faster from
 
 ![Dashboard](docs/Screenshot 2026-09-05 at 11.56.37 AM.png) 
 
-![Analysis]()
+![Analysis](docs/Screenshot 2026-09-05 at 11.57.27 AM.png)
 
 ## Features
 
