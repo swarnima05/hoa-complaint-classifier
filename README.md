@@ -10,9 +10,12 @@ This project automates that first triage step so complaints can move faster from
 
 ## UI Preview
 
-![Dashboard](docs/Screenshot 2026-09-05 at 11.56.37 AM.png) 
 
-![Analysis](docs/Screenshot 2026-09-05 at 11.57.27 AM.png)
+
+<img width="1014" height="575" alt="analysis" src="https://github.com/user-attachments/assets/882d9a68-825c-4a9a-a86d-814ac294294e" />
+
+<img width="1280" height="660" alt="dashboard" src="https://github.com/user-attachments/assets/2366857e-b11b-4b5c-a153-68faadd22af0" />
+
 
 ## Features
 
