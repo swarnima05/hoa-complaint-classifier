@@ -10,7 +10,9 @@ This project automates that first triage step so complaints can move faster from
 
 ## UI Preview
 
-![HOA Complaint Auto-Classifier UI](docs/ui-screenshot.png)
+![Dashboard](docs/Screenshot 2026-09-05 at 11.56.37 AM.png) 
+
+![Analysis]()
 
 ## Features
 
